@@ -1,0 +1,18 @@
+Pintos Project Assignment-2 
+
+
+	(In Alphabetical Order)
+
+................................................
+| S.No.|     Name                 |  Reg. No.  |
+''''''''''''''''''''''''''''''''''''''''''''''''
+|  01  | Fatima Mahmud            |    05406   |
+|  02  | Momina Abrar Rashid      |    04941   |
+|  03  | Izzah Zaman              |    04993   |
+''''''''''''''''''''''''''''''''''''''''''''''''
+
+
+We have not been able to implement "multi-child-fd" and "multi-oom" but the rest of the tests are passing
+
+
+	(71/73 Passed)
